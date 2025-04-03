@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 No try there is, do or do not.
-=======
-DO OR DO NOT, THERE IS NO TRY.
->>>>>>> cae3fa9 (Updated yoda.txt content in feature-rename-files branch)
